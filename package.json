@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "csv-parse": "^4.3.4",
+    "stream-transform": "^1.0.8"
+  },
+  "name": "parse_gbif_download",
+  "description": "Parse GBIF download and attach images to records",
+  "version": "1.0.0",
+  "main": "parseDownload.js"
+}
